@@ -22,3 +22,26 @@ p {
   color: rgb(0, 0, 0);
   text-align: right;
 }
+
+.colores {
+  color: rgb(79, 205, 131);
+}
+p {
+  color: rgb(0, 0, 0);
+  text-align: right;
+}
+
+h5 {
+  color: rgb(255, 255, 255);
+  
+}
+#fiveHead {
+  color: rgb(251, 255, 255);
+  text-align: right;
+  background-color : blue
+}
+
+p {
+  color: rgb(196, 7, 7);
+  text-align: right;
+}
