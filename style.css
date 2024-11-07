@@ -2,7 +2,17 @@ h1 {
   color: rgb(168, 40, 125);
   font-family: cursive;
   font-weight: 600;
+  
 }
+
+h1:first-letter {
+  font-weight: 800;
+}
+
+
+
+
+
 p {
   color: rgb(0, 0, 0);
   text-align: right;
@@ -12,8 +22,14 @@ p {
 h2 {
   color: rgb(246, 8, 8);
   font-family:Georgia, 'Times New Roman', Times, serif;
-  font-weight: 700;
+  font-weight: 400;
+
 }
+
+h2:first-letter {
+  font-weight: bold;
+}
+
 #p1 {
   color: rgb(0, 0, 0);
   text-align: right;
@@ -26,6 +42,10 @@ h3 {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: 560;
 }
+h3:first-letter {
+  font-weight: 800;
+}
+
 p {
   color: rgb(0, 0, 0);
   text-align: right;
@@ -46,8 +66,10 @@ h5 {
   font-family:Impact;
   font-weight: 900;
   font-size: x-large;
-  
 }
+
+
+
 #fiveHead {
   color: rgb(251, 255, 255);
   text-align: right;
@@ -63,4 +85,4 @@ p {
 }
 
 
-
+p:first-letter {font-weight: bold;}
