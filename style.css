@@ -51,6 +51,12 @@ p {
   text-align: right;
 }
 
+h4:hover {
+  color: yellow;
+  font-size: 40px;
+}
+
+
 .colores {
 
   font-size: 30px;
