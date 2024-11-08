@@ -77,6 +77,8 @@ h5 {
   font-size: x-large;
 }
 
+#titolo6 {color: blue;}
+
 
 
 #fiveHead {
@@ -91,6 +93,16 @@ p {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 100;
   font-size:small
+}
+
+h6 {
+  color: rgb(255, 128, 0);
+  font-weight: 900;
+}
+
+.orangeText {
+  font-weight: 400;
+  color: rgb(243, 141, 40);
 }
 
 
