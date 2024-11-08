@@ -105,5 +105,20 @@ h6 {
   color: rgb(243, 141, 40);
 }
 
+.box {
+  text-align: center;
+  width: 20em;
+  border: 2px solid #f90000;
+  padding: 10px 8px;
+  background-image: linear-gradient(180deg, #2d7ef7, #428cf5 50%, #04cef6);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+
+h2 {
+  color: rgb(255, 128, 0);
+  font-weight: 900;
+}
 
 p:first-letter {font-weight: bold;}
