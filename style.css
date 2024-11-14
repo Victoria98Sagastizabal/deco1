@@ -130,5 +130,8 @@ px {
 
 .container2 {
   padding-top: 20px;
-  margin: center;
+  margin: auto;
+  border-style: solid;
+  border-color: rgb(249, 5, 241);
+
 }
