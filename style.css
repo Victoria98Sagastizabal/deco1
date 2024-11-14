@@ -133,5 +133,12 @@ px {
   margin: auto;
   border-style: solid;
   border-color: rgb(249, 5, 241);
-
 }
+
+
+.cont {
+  color: rgb(255, 128, 0);
+  background-color: rgb(132, 40, 108);
+  display: inline-block;
+}
+
