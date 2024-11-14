@@ -142,3 +142,32 @@ px {
   display: inline-block;
 }
 
+.s1 {
+  color: rgb(34, 255, 0);
+  background-color: rgb(132, 40, 108);
+  border-color: #f90000;
+  height: 20px;
+  width: auto;
+  display: inline;
+}
+
+.s2 {
+  color: rgb(34, 255, 0);
+  background-color: rgb(132, 40, 108);
+  border-color: #f90000;
+  height: 20px;
+  width: auto;
+  display: inline-block;
+}
+
+
+.s3 {
+  color: rgb(34, 255, 0);
+  background-color: rgb(132, 40, 108);
+  border-color: #f90000;
+  height: 20px;
+  width: auto;
+  display: block;
+}
+
+
